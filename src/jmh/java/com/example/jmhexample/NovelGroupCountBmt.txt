@@ -1,0 +1,21 @@
+## Benchmark Mode Cnt Score Error Units
+
+NovelGroupCountBmt.v1 avgt 25 2807989.036 ± 53298.514 ns/op
+NovelGroupCountBmt.v1_1 avgt 25 2255924.830 ± 37396.453 ns/op
+NovelGroupCountBmt.v1_2 avgt 25 364447.157 ± 2257.509 ns/op
+NovelGroupCountBmt.v1_3 avgt 25 245383.773 ± 1626.161 ns/op
+NovelGroupCountBmt.v1_4 avgt 25 254091.121 ± 695.362 ns/op
+NovelGroupCountBmt.v1_5 avgt 25 165249.670 ± 413.031 ns/op
+NovelGroupCountBmt.v1_6 avgt 25 165236.302 ± 1167.032 ns/op
+NovelGroupCountBmt.v2 avgt 25 3803235.848 ± 154655.430 ns/op
+NovelGroupCountBmt.v2_1 avgt 25 4151505.820 ± 111762.830 ns/op
+NovelGroupCountBmt.v2_2 avgt 25 122042.057 ± 2052.977 ns/op
+NovelGroupCountBmt.v2_3 avgt 25 103905.322 ± 1801.862 ns/op
+NovelGroupCountBmt.v2_4 avgt 25 113000.365 ± 1570.426 ns/op
+NovelGroupCountBmt.v2_5 avgt 25 90738.094 ± 1145.675 ns/op
+NovelGroupCountBmt.v2_6 avgt 25 90522.216 ± 1116.664 ns/op
+NovelGroupCountBmt.v2_7 avgt 25 72206.255 ± 1656.868 ns/op
+NovelGroupCountBmt.v2_8 avgt 25 62361.207 ± 1195.248 ns/op
+NovelGroupCountBmt.v2_9 avgt 25 62097.766 ± 1266.795 ns/op
+
+Process finished with exit code 0
